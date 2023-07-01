@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sir-Capy
+- 👀 I’m interested in 3D Printing
+- 🌱 I’m currently learning Python
